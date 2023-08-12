@@ -1,0 +1,8 @@
+{
+    "pay_in_country": "US",
+    "pay_out_country": "IN",
+    "pay_in_currency": "USD",
+    "pay_out_currency": "INR",
+    "pay_in_amount": 100,
+    "product_type": "standard"
+  }
